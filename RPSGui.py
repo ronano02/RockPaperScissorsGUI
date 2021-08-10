@@ -27,7 +27,7 @@ wonImg = ImageTk.PhotoImage(Image.open('RPS/won.png'))
 lostImg = ImageTk.PhotoImage(Image.open('RPS/lost.png'))
 rockB = ImageTk.PhotoImage(Image.open('RPS/rockB.png'))
 paperB = ImageTk.PhotoImage(Image.open('RPS/paperB.png'))
-scissorsB =ImageTk.PhotoImage(Image.open('RPS/scissorsB.png'))
+scissorsB = ImageTk.PhotoImage(Image.open('RPS/scissorsB.png'))
 exitB = ImageTk.PhotoImage(Image.open('RPS/exitB.png'))
 
 # Global variables for scoreboard and options for computer to choose from when playing
